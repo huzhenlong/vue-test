@@ -2,7 +2,7 @@
   <div>
     <van-nav-bar>
       <template #title>
-        <span class="tle">{{navTitle}}</span>
+        <span class="tle">首付款托管</span>
       </template>
       <template #left>
         <van-icon name="arrow-left" size="18" color="#000"/>
